@@ -14,7 +14,7 @@ public static class BookSceneBuilder
     private const string ArtFolder = Root + "/Art";
     private static Sprite squareSprite;
 
-    [MenuItem("Tools/Book Samples/Generate/Refresh Sample Scenes")]
+    [MenuItem("Tools/Book Samples/Generate Sample Scenes")]
     public static void Generate()
     {
         if (EditorApplication.isPlayingOrWillChangePlaymode)

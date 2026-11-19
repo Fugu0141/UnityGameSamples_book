@@ -19,7 +19,7 @@
 
 ## 使い方
 
-Unity Hubで `UnityProject` を開き、`Tools → Book Samples → Generate/Refresh Sample Scenes` を実行してください。すると同プロジェクト内の `Assets/BookSamples/Scenes` と `Prefabs` と `Art` にサンプルが生成されます。生成すると章別Scene/Prefabが**上書き**されます。独自に改造するときは別名で保存してください。
+Unity Hubで `UnityProject` を開き、`Tools → Book Samples → Generate Sample Scenes` を実行してください。すると同プロジェクト内の `Assets/BookSamples/Scenes` と `Prefabs` と `Art` にサンプルが生成されます。生成すると章別Scene/Prefabが**上書き**されます。独自に改造するときは別名で保存してください。
 
 **初回検証：** 1) Chapter01でプレイヤーが下側に見えること、2) Chapter02でWASD移動、3) Chapter05で弾を敵に当てる、4) Chapter09でHP→ゲームオーバー→Rのリロード、5) Chapter10で異なる敵が出ることを確認します。
 

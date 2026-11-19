@@ -15,7 +15,7 @@
 
 1. リポジトリをCloneし、Unity Hubで `UnityProject` フォルダを開きます。
 2. 初回にUnity Package Managerの解決・アセットのインポートが完了するまで進めます。
-3. Unityのメニュー **Tools → Book Samples → Generate/Refresh Sample Scenes** を選び、章ごとのシーンと教材用Prefabを生成します。
+3. Unityのメニュー **Tools → Book Samples → Generate Sample Scenes** を選び、章ごとのシーンと教材用Prefabを生成します。
 4. `Assets/BookSamples/Scenes/Chapter01.unity` を開きます。第1章ではプレイヤーの配置、色、位置、シーンの保存を試しましょう。
 5. 第2章の見本は `Chapter02.unity`、最終ゲームの見本は `Chapter12.unity` です。Gameビューで **Play** して確認します。
 
